@@ -1,7 +1,7 @@
 .site-header{
 	background-color: #3f3f67;
 	color: #cfcfe0;
-	height: 100vh;
+	height: 90vh;
 	font-family: monospace;
 	display: flex;
 	flex-direction: column;
@@ -19,6 +19,16 @@
 	width: 200px;
 	align-self: center;
 	box-shadow: #2f2f42 2px 5px 5px;
+}
+
+.site-footer{
+	background-color: #171733;
+	color: #cfcfe0;
+	height: 10vh;
+	font-family: monospace;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
 }
 
 body{
